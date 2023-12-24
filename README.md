@@ -25,7 +25,7 @@
 
 - 🖍I like to solve questions on leetcode, hackerrank and codeforces.
 
--⚡  You can also contact me on Instagram.
+- ⚡You can also contact me on Instagram.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
