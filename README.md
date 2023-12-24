@@ -15,7 +15,13 @@
 
 - 📫 How to reach me **yashasviagrawal29@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/gopal/Downloads/Yashasvi_Agrawal_B.TechCS_GLA%20University.pdf](file:///C:/Users/gopal/Downloads/Yashasvi_Agrawal_B.TechCS_GLA%20University.pdf)
+- 🔥 Always striving to work hard & learn new tools.
+  
+- 👯 Looking to connect with people, share ideas and knowledge with them.
+  
+- 📕 An avid reader, foodie and love to watch anime.
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
