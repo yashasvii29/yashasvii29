@@ -15,13 +15,17 @@
 
 - 📫 How to reach me **yashasviagrawal29@gmail.com**
 
-- 🔥 Always striving to work hard & learn new tools.
+- 🤝  I'm open to collaborating on Web development and Software development
+
+- 🔥 Always striving to work hard & learn new tools and technologies.
   
 - 👯 Looking to connect with people, share ideas and knowledge with them.
   
-- 📕 An avid reader, foodie and love to watch anime.
+- 📕 An avid reader, love to travel, watch movies and listen music.
 
+- 🖍I like to solve questions on leetcode, hackerrank and codeforces.
 
+-⚡  You can also contact me on Instagram.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
