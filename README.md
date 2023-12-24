@@ -61,9 +61,20 @@
 <br/>
 <br/>
 
+<br/>
+<br/>
+
+<br/>
+<br/>
+
+<br/>
+<br/>
+
 ## :star: My GitHub Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashasvii29&show_icons=true&locale=en" alt="yashasvii29" /></p>
+
+<br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashasvii29&" alt="yashasvii29" /></p>
 
