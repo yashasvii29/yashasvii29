@@ -46,3 +46,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashasvii29&show_icons=true&locale=en" alt="yashasvii29" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashasvii29&" alt="yashasvii29" /></p>
+
+<div align="center">
+<img src="gary.png" alt="my no-div gary CSS art carrying a quote" style=" height:150px;">
+</div>
+
