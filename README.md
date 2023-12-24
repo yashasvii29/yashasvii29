@@ -56,6 +56,8 @@
 <br/>
 <br/>
 
+## :computer: Mostly used Languages
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashasvii29&show_icons=true&locale=en&layout=compact" alt="yashasvii29" /></p>
 
 <br/>
