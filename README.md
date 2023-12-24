@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **yashasviagrawal29@gmail.com**
 
-- 🤝  I'm open to collaborating on Web development and Software development
+- 🤝  I'm looking to collaborate on Web development and Software development
 
 - 🔥 Always striving to work hard & learn new tools and technologies.
   
