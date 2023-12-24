@@ -1,11 +1,15 @@
 ![MasterHead](https://www.teahub.io/photos/full/22-221879_-net-full-stack-developer.jpg)
+
 <h1 align="center">Hi 👋, I'm Yashasvi Agrawal</h1>
+
 <h3 align="center">I am a full stack developer from India. I am a hands-on learner, hence prefer learning new technologies through development. In my free time, I explore new technologies, read tech blogs and solve problems on Data Structures and Algorithms.</h3>
 <img align="right" alt="Coding" width="300" src="https://www.bing.com/th/id/OGC.c083e37550eb4dbe629dcad0cdd52532?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2flP8xu5t2DLGG045H8F%2fgiphy.gif&ehk=k9%2falnrYPPZDLdnVWur7rb3F8a6SbXByEWWR7m1NwQQ%3d"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashasvii29&label=Profile%20views&color=0e75b6&style=flat" alt="yashasvii29" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+### :heart: More facts about Me!
 
 - 🔭 I’m currently working on [Ecommerce Website](https://github.com/yashasvii29/Ecommerce-Website)
 
@@ -27,7 +31,11 @@
 
 - ⚡You can also contact me on Instagram.
 
-<h3 align="left">Connect with me:</h3>
+<br/>
+<br/>
+
+## :pushpin: Connect with Me
+
 <p align="left">
 <a href="https://linkedin.com/in/yashasvi-agrawal-855774229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashasvi-agrawal-855774229" height="30" width="40" /></a>
 <a href="https://instagram.com/itsmeyashasvii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsmeyashasvii" height="30" width="40" /></a>
@@ -38,16 +46,32 @@
 <a href="https://auth.geeksforgeeks.org/user/yashasviag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yashasviag" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<br/>
+<br/>
+
+## :computer: My Tech Stack
+
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
+<br/>
+<br/>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashasvii29&show_icons=true&locale=en&layout=compact" alt="yashasvii29" /></p>
+
+<br/>
+<br/>
+
+## :star: My GitHub Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashasvii29&show_icons=true&locale=en" alt="yashasvii29" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashasvii29&" alt="yashasvii29" /></p>
 
+<br/>
+<br/>
+
 <div align="center">
 <img src="gary.png" alt="my no-div gary CSS art carrying a quote" style=" height:150px;">
 </div>
 
+<hr/>
