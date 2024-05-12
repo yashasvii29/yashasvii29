@@ -76,6 +76,15 @@
 <br/>
 <br/>
 
+## All DSA Badges @LeetCode
+
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="40px"></img>
+
+<br/>
+<br/>
+
 ## :computer: Mostly used Languages
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashasvii29&show_icons=true&locale=en&layout=compact" alt="yashasvii29" /></p>
