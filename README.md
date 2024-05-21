@@ -87,7 +87,7 @@
 
 ## :computer: Mostly used Languages
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashasvii29&show_icons=true&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="yashasvii29" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashasvii29&show_icons=true&locale=en&layout=compact&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="yashasvii29" /></p>
 
 <br/>
 <br/>
