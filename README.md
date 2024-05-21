@@ -107,7 +107,7 @@
 
 <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashasvii29&theme=dark" alt="yashasvii29" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashasvii29&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="yashasvii29" /></p>
 
 <br/>
 <br/>
