@@ -103,7 +103,7 @@
 
 ## :star: My GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashasvii29&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="yashasvii29" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashasvii29&show_icons=true&theme=react&hide_border=true&background=060A0CD0" alt="yashasvii29" /></p>
 
 <br/>
 
