@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-### :heart: More facts about Me!
+### 🙋‍♂️ More facts about Me!
 
 - 🔭 I’m currently working on [Chat App](https://github.com/yashasvii29/Chat-App)
 
