@@ -118,3 +118,9 @@
 </div>
 
 <hr/>
+
+## :technologist: LeetCode Profile
+
+<p align="center">
+<img src="LEETCODE_PROFILE_IMAGE_URL" alt="LeetCode Profile Image" width="100">
+</p>
