@@ -113,14 +113,19 @@
 <br/>
 <br/>
 
+## :technologist: LeetCode Profile
+
+<p align="center">
+<img src="leetcode-image.png" alt="LeetCode Profile Image" width="100">
+</p>
+
+<br/>
+<br/>
+
 <div align="center">
 <img src="gary.png" alt="my no-div gary CSS art carrying a quote" style=" height:150px;">
 </div>
 
 <hr/>
 
-## :technologist: LeetCode Profile
 
-<p align="center">
-<img src="LEETCODE_PROFILE_IMAGE_URL" alt="LeetCode Profile Image" width="100">
-</p>
