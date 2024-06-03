@@ -54,7 +54,7 @@
 ### 🙋‍♂️ My Portfolio!
 
 <p>
-  <img src="profile-icon.png" alt="Link Icon"  height="40" width="40"/>
+  <img src="profile-icon.png" alt="Link Icon"  height="40" width="40" style="margin-top:10px;"/>
   <a href="https://github.com/yashasvii29/Portfolio">View My Portfolio</a>
 </p>
 
