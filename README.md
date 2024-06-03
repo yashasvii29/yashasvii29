@@ -53,7 +53,11 @@
 
 ### 🙋‍♂️ My Portfolio!
 
-<p><a href="https://github.com/yashasvii29/Portfolio">View My Portfolio</a></p>
+<p>
+  <img src="https://img.icons8.com/material-outlined/24/000000/link.png" alt="Link Icon" style="vertical-align:middle; margin-right:5px;"/>
+  <a href="https://github.com/yashasvii29/Portfolio">View My Portfolio</a>
+</p>
+
 
 <br/>
 <br/>
