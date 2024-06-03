@@ -78,11 +78,11 @@
 
 ## :heart: All DSA Badges @LeetCode
 
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-05.gif" width="80px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="80px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="80px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="80px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="80px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-05.gif" width="60px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="60px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="60px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="60px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="60px"></img>
 
 <br/>
 <br/>
