@@ -29,7 +29,9 @@
 
 - 🖍I like to solve questions on leetcode, hackerrank and codeforces.
 
-- ⚡You can also contact me on Instagram.
+- ⚡You can also contact me on Instagram and Twitter.
+
+- 🙋‍♂️ View my [Portfolio](https://github.com/yashasvii29/Portfolio)
 
 <br/>
 <br/>
@@ -46,16 +48,6 @@
 <a href="https://codeforces.com/profile/yashasviagrawal29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yashasviagrawal29" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yashasviagrawal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashasviagrawal1" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/yashasviag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yashasviag" height="30" width="40" /></a>
-</p>
-
-<br/>
-<br/>
-
-### 🙋‍♂️ My Portfolio!
-
-<p>
-  <img src="profile-icon.png" alt="Link Icon" height="40" width="40" style="vertical-align: middle; margin-right: 10px;"/>
-  <a href="https://github.com/yashasvii29/Portfolio" style="vertical-align: middle;">View My Portfolio</a>
 </p>
 
 <br/>
