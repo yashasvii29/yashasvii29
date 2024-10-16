@@ -42,9 +42,18 @@
   <a href="https://github.com/yashasvii29?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/yashasvii29?label=Followers&style=social" alt="GitHub Followers" />
   </a>
-  &nbsp;&nbsp;
+<!--   &nbsp;&nbsp;
+ <a href="https://github.com/yashasvii29?tab=following" target="_blank">
+    <img src="https://img.shields.io/github/following/yashasvii29?label=Following&style=social" alt="GitHub Following" />
+  </a> -->
+</p>
+
+
+## :handshake: Followers & Following
+
+<p align="center">
   <a href="https://github.com/yashasvii29?tab=following" target="_blank">
-    <strong>View Following</strong>
+    <img src="https://img.shields.io/github/following/yashasvii29?label=Following&style=social" alt="GitHub Following" />
   </a>
 </p>
 
