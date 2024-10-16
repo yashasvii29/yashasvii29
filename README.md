@@ -44,7 +44,7 @@
   </a>
   &nbsp;&nbsp;
  <a href="https://github.com/yashasvii29?tab=following" target="_blank">
-    <img src="https://img.shields.io/github/following/yashasvii29?label=Following&style=social" alt="GitHub Following" />
+    <strong>View Following</strong>
   </a>
 </p>
 
