@@ -128,7 +128,7 @@
 ## :technologist: LeetCode Profile
 
 <p align="center">
-<img src="leetcode-profile.png" alt="LeetCode Profile Image" style=" height:500px width:1000px;">
+<img src="Leetcode_cur_img" alt="LeetCode Profile Image" style=" height:500px width:1000px;">
 </p>
 
 <br/>
