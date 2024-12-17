@@ -109,6 +109,8 @@
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="60px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="60px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="60px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-365.gif" width="60">
+
 
 <br/>
 <br/>
