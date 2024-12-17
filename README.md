@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Chat App](https://github.com/yashasvii29/Chat-App)
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Redux-Toolkit**
 
 - 💬 Ask me about **MERN stack**
 
