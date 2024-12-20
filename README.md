@@ -115,6 +115,10 @@
 <br/>
 <br/>
 
+## :heart: Leetcode Problems Solved @LeetCode
+
+<p align="center">&nbsp;<img align="center" src="https://leetcard.jacoblin.cool/Yashasviagrawal1?theme=light,unicorn" alt="Yashasviagrawal1"/></p>
+
 ## :computer: Mostly used Languages
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashasvii29&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="yashasvii29" /></p>
