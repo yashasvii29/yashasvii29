@@ -117,10 +117,7 @@
 
 ## :heart: Leetcode Problems Solved @LeetCode
 
-<p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/Yashasviagrawal1?theme=light,unicorn" alt="Yashasviagrawal1" width="500" height="300" />
-</p>
-
+  <p align="center" src="https://leetcard.jacoblin.cool/Yashasviagrawal1?theme=light,unicorn" alt="Yashasviagrawal1" width="500" height="300" />
 
 ## :computer: Mostly used Languages
 
