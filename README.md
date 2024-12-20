@@ -117,7 +117,7 @@
 
 ## :heart: Leetcode Problems Solved @LeetCode
 
-  <p align="center" src="https://leetcard.jacoblin.cool/Yashasviagrawal1?theme=light,unicorn" alt="Yashasviagrawal1" width="500" height="300" />
+  <p align="center">&nbsp;<img align="center" src="https://leetcard.jacoblin.cool/Yashasviagrawal1?theme=light,unicorn" alt="Yashasviagrawal1" width="500" height="300"/></p>
 
 ## :computer: Mostly used Languages
 
