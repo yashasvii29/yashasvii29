@@ -54,6 +54,7 @@
 ## :pushpin: Connect with Me
 
 <p align="left">
+<a href="https://api.whatsapp.com/send?phone=8958552672" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WhatsApp_icon.png/598px-WhatsApp_icon.png?20200503174721" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://github.com/yashasvii29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="yashasvi-agrawal-855774229" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yashasvi-agrawal-855774229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashasvi-agrawal-855774229" height="30" width="40" /></a>
 <a href="https://instagram.com/itsmeyashasvii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsmeyashasvii" height="30" width="40" /></a>
