@@ -106,8 +106,8 @@
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="redux"  height="50" width="50"/>
 </a>&nbsp;&nbsp;
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="selenium" height="50" width="50"/>
+ <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/selenium-2-570545.png" alt="selenium" height="50" width="50"/>
 </a>&nbsp;&nbsp;
 
 </p>
