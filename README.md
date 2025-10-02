@@ -120,9 +120,8 @@
   <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/selenium-2-570545.png" alt="selenium" height="50" width="50"/>
 </a>&nbsp;&nbsp;
 <a href="https://scrapy.org/" target="_blank" rel="noreferrer"> 
-  <img src="scrapy.png" alt="scrapy" height="50" width="50"/> 
+  <img src="paint-scraper.png" alt="scrapy" height="50" width="50"/> 
 </a>
-
 <a href="https://bitbucket.org/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" height="50" width="50"/> 
 </a>&nbsp;&nbsp;
