@@ -126,8 +126,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" height="50" width="50"/> 
 </a>&nbsp;&nbsp;
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="vercel" height="50" width="50"/> 
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/vercel-icon.png" alt="vercel" height="50" width="50" style="background:white; border-radius:8px; padding:5px;"/> 
 </a>&nbsp;&nbsp;
+
 
 
 
